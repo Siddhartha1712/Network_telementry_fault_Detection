@@ -1,0 +1,302 @@
+[
+  {
+    "event_id": "E001",
+    "site_id": "site_01",
+    "fault_type": "F1",
+    "start_day": 2,
+    "start_hour": 6.612367137084377,
+    "duration_hours": 8,
+    "severity": 0.45,
+    "window": "train_faint"
+  },
+  {
+    "event_id": "E002",
+    "site_id": "site_05",
+    "fault_type": "F2",
+    "start_day": 7,
+    "start_hour": 19.41047226074251,
+    "duration_hours": 14,
+    "severity": 0.45,
+    "window": "train_faint"
+  },
+  {
+    "event_id": "E003",
+    "site_id": "site_02",
+    "fault_type": "F5",
+    "start_day": 8,
+    "start_hour": 18.623789142967844,
+    "duration_hours": 1.0,
+    "severity": 0.45,
+    "window": "train_faint"
+  },
+  {
+    "event_id": "E004",
+    "site_id": "site_06",
+    "fault_type": "F2",
+    "start_day": 11,
+    "start_hour": 21.624659711231,
+    "duration_hours": 23.238967445735888,
+    "severity": 0.8116416398206007,
+    "window": "eval"
+  },
+  {
+    "event_id": "E005",
+    "site_id": "site_02",
+    "fault_type": "F6",
+    "start_day": 14,
+    "start_hour": 4.592582364801906,
+    "duration_hours": 4.804060730151686,
+    "severity": 0.7717322007931532,
+    "window": "eval"
+  },
+  {
+    "event_id": "E006",
+    "site_id": "site_07",
+    "fault_type": "F2",
+    "start_day": 16,
+    "start_hour": 10.984768859994439,
+    "duration_hours": 35.36568784011302,
+    "severity": 1.044395244862276,
+    "window": "eval"
+  },
+  {
+    "event_id": "E007",
+    "site_id": "site_03",
+    "fault_type": "F3",
+    "start_day": 16,
+    "start_hour": 11.408211993583565,
+    "duration_hours": 3.4930325674092737,
+    "severity": 0.847059119039809,
+    "window": "eval"
+  },
+  {
+    "event_id": "E008",
+    "site_id": "site_02",
+    "fault_type": "F1",
+    "start_day": 18,
+    "start_hour": 13.223811563459252,
+    "duration_hours": 19.95835168976201,
+    "severity": 0.9905924254260509,
+    "window": "eval"
+  },
+  {
+    "event_id": "E009",
+    "site_id": "site_04",
+    "fault_type": "F3",
+    "start_day": 17,
+    "start_hour": 2.331691326394022,
+    "duration_hours": 5.736804425718328,
+    "severity": 1.119694181239249,
+    "window": "eval"
+  },
+  {
+    "event_id": "E010",
+    "site_id": "site_02",
+    "fault_type": "F2",
+    "start_day": 20,
+    "start_hour": 17.283813234601467,
+    "duration_hours": 30.35427156323187,
+    "severity": 0.9901435083121041,
+    "window": "eval"
+  },
+  {
+    "event_id": "E011",
+    "site_id": "site_06",
+    "fault_type": "F5",
+    "start_day": 19,
+    "start_hour": 13.35831405017068,
+    "duration_hours": 1.703626946768058,
+    "severity": 0.7638411371849839,
+    "window": "eval"
+  },
+  {
+    "event_id": "E012",
+    "site_id": "site_02",
+    "fault_type": "F5",
+    "start_day": 17,
+    "start_hour": 12.7099687602816,
+    "duration_hours": 1.2119486576916492,
+    "severity": 0.884906151004018,
+    "window": "eval"
+  },
+  {
+    "event_id": "E013",
+    "site_id": "site_09",
+    "fault_type": "F4",
+    "start_day": 19,
+    "start_hour": 20.260669037362668,
+    "duration_hours": 4.462440963099015,
+    "severity": 0.8886916906459634,
+    "window": "eval"
+  },
+  {
+    "event_id": "E014",
+    "site_id": "site_06",
+    "fault_type": "F1",
+    "start_day": 17,
+    "start_hour": 11.273270231946373,
+    "duration_hours": 10.160910478516975,
+    "severity": 1.127679548995749,
+    "window": "eval"
+  },
+  {
+    "event_id": "E015",
+    "site_id": "site_05",
+    "fault_type": "F4",
+    "start_day": 13,
+    "start_hour": 4.125399558600817,
+    "duration_hours": 2.0101856147525816,
+    "severity": 1.1458469670212448,
+    "window": "eval"
+  },
+  {
+    "event_id": "E016",
+    "site_id": "site_10",
+    "fault_type": "F2",
+    "start_day": 11,
+    "start_hour": 15.442856341896015,
+    "duration_hours": 19.720776115767347,
+    "severity": 0.970255476508796,
+    "window": "eval"
+  },
+  {
+    "event_id": "E017",
+    "site_id": "site_10",
+    "fault_type": "F2",
+    "start_day": 20,
+    "start_hour": 9.363321350888588,
+    "duration_hours": 32.527592259406056,
+    "severity": 0.8145244464521081,
+    "window": "eval"
+  },
+  {
+    "event_id": "E018",
+    "site_id": "site_02",
+    "fault_type": "F2",
+    "start_day": 12,
+    "start_hour": 17.79126663773247,
+    "duration_hours": 16.995840373119368,
+    "severity": 1.0186594824578896,
+    "window": "eval"
+  },
+  {
+    "event_id": "E019",
+    "site_id": "site_05",
+    "fault_type": "F3",
+    "start_day": 17,
+    "start_hour": 11.110526128324867,
+    "duration_hours": 3.4863393559729454,
+    "severity": 0.7529940904223934,
+    "window": "eval"
+  },
+  {
+    "event_id": "E020",
+    "site_id": "site_04",
+    "fault_type": "F2",
+    "start_day": 15,
+    "start_hour": 11.192451126272571,
+    "duration_hours": 32.1567108857891,
+    "severity": 1.0042331571384286,
+    "window": "eval"
+  },
+  {
+    "event_id": "E021",
+    "site_id": "site_02",
+    "fault_type": "F4",
+    "start_day": 14,
+    "start_hour": 18.647512483484803,
+    "duration_hours": 3.477382390332156,
+    "severity": 1.0732115482129305,
+    "window": "eval"
+  },
+  {
+    "event_id": "E022",
+    "site_id": "site_06",
+    "fault_type": "F3",
+    "start_day": 18,
+    "start_hour": 11.81754669780049,
+    "duration_hours": 3.806429501489639,
+    "severity": 0.856946294938778,
+    "window": "eval"
+  },
+  {
+    "event_id": "E023",
+    "site_id": "site_07",
+    "fault_type": "F5",
+    "start_day": 14,
+    "start_hour": 18.707815325863894,
+    "duration_hours": 1.2833668622407197,
+    "severity": 0.9306039639642203,
+    "window": "eval"
+  },
+  {
+    "event_id": "E024",
+    "site_id": "site_01",
+    "fault_type": "F4",
+    "start_day": 14,
+    "start_hour": 0.09833842653415226,
+    "duration_hours": 3.7395256695835593,
+    "severity": 1.098990135900645,
+    "window": "eval"
+  },
+  {
+    "event_id": "E025",
+    "site_id": "site_03",
+    "fault_type": "F1",
+    "start_day": 15,
+    "start_hour": 2.2520126657232384,
+    "duration_hours": 17.033055014080393,
+    "severity": 1.084930242572285,
+    "window": "eval"
+  },
+  {
+    "event_id": "E026",
+    "site_id": "site_04",
+    "fault_type": "F3",
+    "start_day": 13,
+    "start_hour": 17.774645673888465,
+    "duration_hours": 5.093287370813922,
+    "severity": 1.0544923025169246,
+    "window": "eval"
+  },
+  {
+    "event_id": "E027",
+    "site_id": "site_08",
+    "fault_type": "F2",
+    "start_day": 15,
+    "start_hour": 16.332669055401954,
+    "duration_hours": 37.20886732307662,
+    "severity": 1.0971525275435652,
+    "window": "eval"
+  },
+  {
+    "event_id": "E028",
+    "site_id": "site_03",
+    "fault_type": "F4",
+    "start_day": 11,
+    "start_hour": 11.329498574128754,
+    "duration_hours": 2.1649884666589885,
+    "severity": 0.9284807779943665,
+    "window": "eval"
+  },
+  {
+    "event_id": "E029",
+    "site_id": "site_09",
+    "fault_type": "F1",
+    "start_day": 17,
+    "start_hour": 2.314874621200479,
+    "duration_hours": 16.837919024704128,
+    "severity": 1.1067917680168955,
+    "window": "eval"
+  },
+  {
+    "event_id": "E030",
+    "site_id": "site_01",
+    "fault_type": "F2",
+    "start_day": 14,
+    "start_hour": 18.04595371341709,
+    "duration_hours": 19.44312534373486,
+    "severity": 0.8990452232630466,
+    "window": "eval"
+  }
+]

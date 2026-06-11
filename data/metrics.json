@@ -1,0 +1,16 @@
+{
+  "n_truth_eval_events": 27,
+  "n_detected_events": 59,
+  "event_precision": 0.3559322033898305,
+  "event_recall": 0.7777777777777778,
+  "event_f1": 0.4883720930232558,
+  "point_precision": 0.5696517412935324,
+  "point_recall": 0.16047652417659425,
+  "point_f1": 0.25041006014215417,
+  "point_adjust_precision": 0.8861842105263158,
+  "point_adjust_recall": 0.9439383321653819,
+  "point_adjust_f1": 0.9141499830335936,
+  "mean_detection_delay_min": 362.9954966444444,
+  "false_alert_points_per_site_per_day": 1.5727272727272728,
+  "attribution_hit_rate": 1.0
+}

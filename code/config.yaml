@@ -1,0 +1,9 @@
+seed: 42
+n_sites: 10
+start_ts: '2026-01-01 00:00:00'
+days: 21
+freq_minutes: 15
+missing_rate_min: 0.005
+missing_rate_max: 0.02
+faults_total: 30
+train_max_faint_faults: 3
